@@ -6,13 +6,13 @@ Trabalho desenvolvido para quebrar a rotina de extração de dados, podemos auto
 #### Requerimentos necessários
 
 1. Pandas
-> pip install pandas
+> $ pip install pandas
 
 2. Selenium
-> pip install selenium
+> $ pip install selenium
 
 3. Beautiful Soup
-> pip install BeautifulSoup
+> $ pip install BeautifulSoup
 
 :us:
 
@@ -21,10 +21,10 @@ Work developed to break the routine of data extraction, we can automate this ext
 #### Required requirements
 
 1. Pandas
-> pip install pandas
+> $ pip install pandas
 
 2. Selenium
-> pip install selenium
+> $ pip install selenium
 
 3. Beautiful Soup
-> pip install BeautifulSoup
+> $ pip install BeautifulSoup
