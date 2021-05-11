@@ -1,4 +1,4 @@
-# Scraping data from query with Beautiful-Soup
+# Scraping data from query with Beautiful Soup
 
 
 Trabalho desenvolvido para quebrar a rotina de extração de dados, podemos automatizar essa extração e ainda exportar em formatos de texto.
